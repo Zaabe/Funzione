@@ -12,3 +12,4 @@ Prossimi progetti da introdurre:
 -Funzioni irrazionali (ad esempio con la radice quadrata)
 
 Non è un granchè ma è utilizzabile, non siate troppo pignoli grazie <3.
+
